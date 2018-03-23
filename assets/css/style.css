@@ -1,0 +1,53 @@
+body {
+    font-family: 'Rock Salt', cursive;
+    text-align: center;
+    background-image: url("https://media.giphy.com/media/9mzmXEbCwLIQM/giphy.gif"); 
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+   
+.title {
+    font-size: 70px;
+    color: white;
+} 
+
+
+
+.wrapper {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-left: 300px;
+    padding-right: 300px;
+    opacity: .9;
+    border-radius: 25px;
+    
+    
+
+}
+
+#timerStarts {
+    background-color:rgba(0, 0, 0, 0.5);
+    color: red;
+   
+
+}
+
+#showQuestions {
+   
+    background-color:rgba(0, 0, 0, 0.5);
+    
+}
+#checkAnswers {
+    background-color:rgba(0, 0, 0, 0.5);
+}
+#showResults {
+    background-color:rgba(0, 0, 0, 0.5);
+}
+#correctAnswers {
+    background-color:rgba(0, 0, 0, 0.5);
+}
+#incorrectAnswers {
+    background-color:rgba(0, 0, 0, 0.5);
+}
